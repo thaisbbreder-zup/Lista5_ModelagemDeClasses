@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12a7d5f0-9019-47df-ab79-426f54c768eb" name="Changes" comment=":tada: init: commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/Ex02_Pessoa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex02_Pessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex03_ContaCorrente/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex03_ContaCorrente/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
