@@ -5,6 +5,7 @@ public class Quadrado {
    double area;
 
     public void mudarLado(double novoTamanho) {
+
         this.tamanhoLado = novoTamanho;
     }
 

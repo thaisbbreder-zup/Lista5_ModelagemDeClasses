@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12a7d5f0-9019-47df-ab79-426f54c768eb" name="Changes" comment=":tada: init: commit inicial">
-      <change afterPath="$PROJECT_DIR$/src/Ex05_Quadrado/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex05_Quadrado/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex06_Retangulo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex06_Retangulo/Retangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex05_Quadrado/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex05_Quadrado/Quadrado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
